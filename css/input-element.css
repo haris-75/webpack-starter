@@ -1,0 +1,11 @@
+.toggle-btn {
+  padding: 7px 15px;
+  font-family: inherit;
+  font-size: 18px;
+  border: 1px solid;
+  border-radius: 4px;
+  cursor: pointer;
+}
+.toggle-btn:hover {
+  background-color: #ffff;
+}

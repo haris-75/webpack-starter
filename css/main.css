@@ -1,0 +1,7 @@
+body {
+  text-align: center;
+  font-family: 'Open Sans';
+}
+.hidden-paragraph {
+  display: none;
+}
