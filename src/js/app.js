@@ -1,3 +1,5 @@
+import { buttonId, textId } from './dom-loader';
+
 var showParagraph = false;
 
 const updateParagraphText = () => {

@@ -1,0 +1,24 @@
+{
+  "name": "webpack-starter",
+  "version": "1.0.0",
+  "description": "Starter project to understand basics of webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack ./src/js/app.js ./dist/bundle.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haris-75/webpack-starter.git"
+  },
+  "author": "haris-75",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haris-75/webpack-starter/issues"
+  },
+  "homepage": "https://github.com/haris-75/webpack-starter#readme",
+  "devDependencies": {
+    "webpack": "^5.74.0",
+    "webpack-cli": "^4.10.0"
+  }
+}
